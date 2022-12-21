@@ -103,7 +103,7 @@ DO NOT PRESS ANYTHING
 ```
 ## Step 3. Restore SD Card.
 ```sh
-Reinsert SD card into PC (Wait for shit loads of boxes to popup on your computer, This is noramal.)
+Reinsert SD card into PC (Wait for quite a few boxes to popup on your computer, This is normal.)
 click restore on in PhoenixCard.v4.2.4.
 and wait for it to finish.
 Now Close every last box and move on to the next step. Installing Applications. 
