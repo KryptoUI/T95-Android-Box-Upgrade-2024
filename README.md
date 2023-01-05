@@ -71,7 +71,8 @@ Download The PhoenixCard.v4.2.4 Flasher.
 _(NOTE: Make sure you have a SD card the size of 8GB+)_
 
 ```sh
-Download The PhoenixCard.v4.2.4: https://www.dropbox.com/s/hjkonwz1m1ab0zy/PhoenixCard.v4.2.4.zip?dl=1
+Download The PhoenixCard.v4.2.4: 
+<a id="raw-url" href="https://www.dropbox.com/s/hjkonwz1m1ab0zy/PhoenixCard.v4.2.4.zip?dl=1">Download FILE</a>
 Extract Zip To Desktop Folder
 Create Shortcut To Desktop
 ```
