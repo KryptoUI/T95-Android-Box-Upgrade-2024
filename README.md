@@ -81,10 +81,9 @@ Create Shortcut To Desktop
 
 ![alt text](https://i.imgur.com/NbvXlYP.png)
 ## Download Image
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
-```sh
-Download https://www.dropbox.com/s/6ppx0umdpnkamn3/T95-H616-A29.img?dl=1
-```
+
+<a id="raw-url" href="https://www.dropbox.com/s/6ppx0umdpnkamn3/T95-H616-A29.img?dl=1">Download FILE</a>
+
 
 ## Install Image To SD Card
 ## Warning!
@@ -116,6 +115,8 @@ Now Close every last box and move on to the next step. Installing Applications.
 
 ## Step 4. Installing Applications.
 Place downloaded applications onto the SD Card.
+<a id="raw-url" href="[https://raw.githubusercontent.com/github-username/project/master/filename](https://www.dropbox.com/s/jprlsnca9wxrl97/com.netflix.mediaclient_8.50.0_build_9_50318-50318_minAPI24%28arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64%29%28nodpi%29_apkmirror.com.apk?dl=1)">Download FILE</a>
+
 ```sh
 > NetFlix:  https://www.dropbox.com/s/jprlsnca9wxrl97/com.netflix.mediaclient_8.50.0_build_9_50318-50318_minAPI24%28arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64%29%28nodpi%29_apkmirror.com.apk?dl=1
 
