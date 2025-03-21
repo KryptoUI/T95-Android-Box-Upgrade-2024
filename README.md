@@ -1,7 +1,7 @@
 ﻿# T95 Android Box.
 ## _Upgrade the Alwinner T95 - H616 Android TV Box._
 
-29/08/2024: Still Works pefect.. 
+21/03/2025: Still Works pefect.. 
 
 
 REPO WILL BE UPDATED OVER TIME SO MAKE SURE TO BOOKMARK AND STAR :)
